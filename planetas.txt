@@ -2,3 +2,4 @@ Alderaan
 Coruscan
 Endor
 Tatuine
+Hoth
