@@ -2,7 +2,9 @@ Luke skywalker
 Obi kenobi
 Master Yoda
 Leia Organa
-HansSolo
+Hans Solo
+R2-D2
+
 
 
 
