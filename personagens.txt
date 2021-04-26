@@ -1,15 +1,3 @@
-Luke skywalker
-Obi kenobi
-Master Yoda
-Leia Organa
-Hans Solo
-R2-D2
-C-3PO
-Takell
-Pomba Dada
-Boba Fett
-Kylo Ren
-Padmé Amidala
-Vice Almirante Holdo
+
 
 
